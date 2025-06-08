@@ -1,2 +1,2 @@
 # Tanvir Hasan Bijoy
-Portfolio
+Graphics Designer
