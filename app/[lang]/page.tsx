@@ -222,13 +222,13 @@ export default function Home(props: {
                   <Gmail />
                 </Link>
                 <Link href={"https://www.behance.net/tanvirhasan00"} className="flex size-12 items-center justify-center rounded-full hover:bg-card hover:text-primary">
-                  <Framer className="invert dark:invert-0 size-4" />
+                  <Framer className="size-4" />
                 </Link>
                 <Link href={"https://dribbble.com/Tanvirhasan00"} className="flex size-12 items-center justify-center rounded-full hover:bg-card hover:text-primary">
-                  <Dribbble className="invert dark:invert-0 size-4" />
+                  <Dribbble className="size-4" />
                 </Link>
                 <Link href={"https://manfromexistence.vercel.app"} className="flex size-12 items-center justify-center rounded-full hover:bg-card hover:text-primary">
-                  <Code2 className="invert dark:invert-0 size-4" />
+                  <Code2 className="size-4" />
                 </Link>
               </div>
             </div>
@@ -240,4 +240,3 @@ export default function Home(props: {
     </div>
   );
 }
-
