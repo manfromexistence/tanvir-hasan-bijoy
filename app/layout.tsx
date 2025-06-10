@@ -7,32 +7,31 @@ import "@/styles/globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "Friday",
-    template: "%s | Friday",
+    default: "Tanvir Hasan Bijoy",
+    template: "%s | Tanvir Hasan Bijoy",
   },
-  description: "Your AI Friend.",
+  description: "Portfolio website for Tanvir Hasan Bijoy, a graphics designer and detailer.",
   keywords: [
-    "friday",
+    "tanvir hasan bijoy",
+    "graphics designer",
+    "portfolio",
+    "detailer",
+    "art",
+    "design",
+    "creative",
     "manfromexistence",
-    "multiverse",
-    "aladdin",
-    "better",
-    "dx",
-    "manfromexistence-auth",
-    "manfromexistence-ui",
-    "manfromexistence-ux",
   ],
   authors: [
     {
-      name: "manfromexistence",
+      name: "Tanvir Hasan Bijoy",
       url: "https://manfromexistence.vercel.app",
     },
   ],
-  creator: "manfromexistence",
+  creator: "Tanvir Hasan Bijoy",
   metadataBase: new URL("https://themux.vercel.app"),
   openGraph: {
-    title: "Friday | More than just your AI assistant",
-    description: "Your AI Friend.",
+    title: "Tanvir Hasan Bijoy | Portfolio of a Graphics Designer & Detailer",
+    description: "Explore the portfolio of Tanvir Hasan Bijoy, showcasing work as a graphics designer and detailer.",
   },
   generator: "Next.js",
 };
